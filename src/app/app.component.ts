@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Comp-level-interaction';
+  name = 'Arunima Gupta';
+
+  public cdata:string;
 }
